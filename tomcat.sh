@@ -41,7 +41,7 @@ if
 		      yum install java-1.8* -y
 		      echo "Checking the java version, please wait"
 
-		      echo
+
 
 		      sleep 2
 
